@@ -83,7 +83,7 @@ A Full Stack Skill Exchange platform where users can connect, share skills, disc
 https://skillswap-frontend-two.vercel.app
 
 💻 Frontend Repository:
-
+https://github.com/Priyankasrivastava71/skillswap-frontend
 
 ⚙️ Backend Repository:
 
