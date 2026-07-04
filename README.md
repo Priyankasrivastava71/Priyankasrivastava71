@@ -89,12 +89,23 @@ https://github.com/Priyankasrivastava71/skillswap-frontend
 https://github.com/Priyankasrivastava71/skillswap-backend
 
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyankasrivastava71&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankasrivastava71&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyankasrivastava71&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Priyankasrivastava71&theme=tokyonight)
+
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyankasrivastava71&theme=tokyo-night)
+
+
+## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Priyankasrivastava71&theme=tokyonight&no-frame=true&row=1)
+
 
 ### Thanks for visiting my profile! ⭐
